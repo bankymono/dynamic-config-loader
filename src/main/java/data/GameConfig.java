@@ -1,12 +1,14 @@
 package data;
 
+import java.util.Arrays;
 import java.util.Random;
 
 public class GameConfig {
-    private static final int releaseYear = 2000;
+    private int releaseYear;
 
     private String gameName;
     private double price;
+    private String[] characterNames;
 
     public int getReleaseYear() {
         return releaseYear;
@@ -20,12 +22,16 @@ public class GameConfig {
         return price;
     }
 
+    public String[] getCharacterNames() {
+        return characterNames;
+    }
+
     @Override
     public String toString() {
         return "GameConfig{" +
-                "releaseYear=" + releaseYear +
-                ", gameName='" + gameName + '\'' +
+                "gameName='" + gameName + '\'' +
                 ", price=" + price +
+                ", characterNames=" + Arrays.toString(characterNames) +
                 '}';
     }
 }

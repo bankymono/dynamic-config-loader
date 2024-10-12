@@ -1,17 +1,17 @@
 
-	java:S112J"FDefine and throw a dedicated exception instead of using a generic one.(ç…—ñüÿÿÿÿ8öç÷ê§2J$1ab3e046-b450-4d7b-b5d2-61a851570d49
+	java:S112\"FDefine and throw a dedicated exception instead of using a generic one.(ç…—ñüÿÿÿÿ8âá¨2J$4317a656-91d2-4747-856d-5ef694d5a5ce
 ˆ
-java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ËÎÛ…8ùç÷ê§2J$c53a4208-de17-4db6-bcbe-89bc693141b6
-m	java:S106"+Replace this use of System.out by a logger.(“Ê»8’è÷ê§2J$3d67a5d2-8d52-446d-9f8b-211433f27083
-]	java:S125"<This block of commented-out lines of code should be removed.(µ­ğ«ùÿÿÿÿ8¾ë§2
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ËÎÛ…8æá¨2J$e1896ddd-d1a5-4b64-bdf0-a3fb3dc0392e
+X	java:S125"<This block of commented-out lines of code should be removed.(ãº¤8ù­¨2
+m	java:S106"+Replace this use of System.out by a logger.(“Ê»8ôá¨2J$2762be95-e5d2-46b8-ac0b-bf1cddab96c2
 o
-java:S3011",This accessibility update should be removed.(”İÙ®8è÷ê§2J$c99e9003-dd2c-4e35-9e39-9a13752ca92e
-r	java:S106-"+Replace this use of System.out by a logger.(Ëü¨°ûÿÿÿÿ8¦è÷ê§2J$8e1c987f-275a-49a4-ba17-3e763f79d164
+java:S3011",This accessibility update should be removed.(”İÙ®8ıá¨2J$c65e4546-97f5-4699-abd6-76a664877818
+r	java:S106."+Replace this use of System.out by a logger.(Ëü¨°ûÿÿÿÿ8â¨2J$b7103e54-3a9a-45c6-a5d1-0936442b7d1f
 o
-java:S30111",This accessibility update should be removed.(˜ÂÓ˜8§è÷ê§2J$759053c7-2bdb-417d-8df7-a993918c3c29
+java:S30112",This accessibility update should be removed.(˜ÂÓ˜8â¨2J$e9931783-7426-485b-8d58-f728a0ee201b
 t
-java:S30115",This accessibility bypass should be removed.(¯òûÂúÿÿÿÿ8¬è÷ê§2J$2aac14fb-6b71-40f8-8e51-4e0872bf9cd1
-R
-java:S1128"5Remove this unused import 'data.UserInterfaceConfig'.(¸ÕÉ¸8ª¾ë§2
-O
-java:S1068"2Remove this unused "UI_CONFIG_PATH" private field.(æŞç±8«¾ë§2
+java:S3011<",This accessibility bypass should be removed.(¯òûÂúÿÿÿÿ8“â¨2J$39c408d3-ce66-4a5a-869d-61f70c44365e
+N
+java:S1128",Remove this unused import 'data.GameConfig'.(›“ğºüÿÿÿÿ8­ù­¨2
+V
+java:S1068"4Remove this unused "GAME_CONFIG_PATH" private field.(ÙÚ“şÿÿÿÿ8­ù­¨2
